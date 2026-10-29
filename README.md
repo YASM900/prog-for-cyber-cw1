@@ -17,7 +17,8 @@ The program displays a security log heading and repeatedly asks the user to ente
 If the credentials are incorrect, it logs a failed login attempt and displays the event details, shows an access denied message, and generates a security alert containing the user IP address. 
 
 --------------------------------------------------------------------------------------------------------------------
-files
+file
+------
 security event logger.py 
 
 -----------------------
