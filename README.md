@@ -17,8 +17,9 @@ The second is a brute-force simulator, which gives you 4 of attempts to guess th
 The third is a login authentication system, which checks a username and password and freezes the account after three failed attempts it would say account frozen for 24hrs. And 4 is to exit the program.
 
 --------------------------------------------------------------------------------------------------------------------
-file s
+file
 security tool.py 
+
 -----------------------
 how to run the program 
 -------------------------
