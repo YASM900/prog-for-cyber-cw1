@@ -33,5 +33,6 @@ run
 
 or
 
-you can import the program file int vs cod and run the program 
+you can import the program file into vs cod and run the program 
+
 ----------------------------------------------------------------
