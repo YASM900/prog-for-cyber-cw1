@@ -25,4 +25,4 @@ run
 or 
 
 you can import the program file int vs cod and run the program 
-<img width="850" height="478" alt="fox" src="https://github.com/user-attachments/assets/510b85f3-e0c6-4b78-9095-02ca0beb6018" />
+
