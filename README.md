@@ -13,6 +13,7 @@ This program checks if an IP address entered by the user is valid. First, it ask
 Next, the program checks each section to make sure it only contains numbers. It then checks that each number is between 0 and 255. If any section contains letters, symbols, or a number outside this range, the IP address is marked as invalid.
 
 If all four sections pass the checks, the program will returns True and displays "Valid IP address". If any check fails, it will  returns False and displays "Invalid IP address".
+
 --------------------------------------------------------------------------------------------------------------------
 files
 ip address validator.py 
