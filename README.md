@@ -16,9 +16,12 @@ security tool.py
 -----------------------
 how to run the program 
 -------------------------
-down load the program 
+down load the program
+
 open terminal
+
 navigate to where the program is save 
+
 run 
 
 or 
