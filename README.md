@@ -23,7 +23,7 @@ navigate to where the program is save
 
 run 
 
-or 
+or
 
 you can import the program file int vs cod and run the program 
 ----------------------------------------------------------------
