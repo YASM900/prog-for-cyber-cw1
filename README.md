@@ -15,9 +15,12 @@ security event logger.py
 -----------------------
 how to run the program 
 -----------------------
-down load the program 
+down load the program
+
 open terminal
-navigate to where the program is save 
+
+navigate to where the program is save
+
 run 
 
 or 
