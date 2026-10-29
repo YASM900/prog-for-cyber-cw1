@@ -23,5 +23,5 @@ run
 
 or 
 
-you can import the program file int vs cod and run the program 
+you can import the program file int vs code and run the program 
 ---------------------------------------------------------------
