@@ -7,7 +7,7 @@ Name Edison Dong banner id is B01860576 I go to Lanarkshire campus
 description of the portogram
 -
 
-This program uses a dictionary to store information about a security incident. The dictionary contains a username, IP address, event type, and risk level. First the program displays the username and IP address.
+This program uses a dictionary to store information about a security incident. The dictionary contains a username IP address event type and risk level. First the program displays the username and IP address.
 
 Next it adds a new piece of information called status and sets it to "Under Investigation". It then changes the risk level from "High" to "Critical" to show that the incident is more serious. After that it removes the event type from the dictionary because it is no longer needed.
 
