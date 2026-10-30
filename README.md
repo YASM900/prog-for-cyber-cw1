@@ -1,12 +1,17 @@
-security tool
+Security tool
 --------------
-student information 
+Student information 
+-
 
 Name Edison Dong 
+
 banner id is B01860576
+
 I go to Lanarkshire campus 
+
 ----------------------------------
-description of the portogram 
+Description of the portogram 
+-
 
 This program is a menu-driven security tool Before using any of the three features, the user must enter the correct administrator username (admin) and password (P@$$word). This helps keep the tool secure and prevents unauthorised access. 
 
@@ -17,12 +22,12 @@ The second is a brute-force simulator, which gives you 4 of attempts to guess th
 The third is a login authentication system, which checks a username and password and freezes the account after three failed attempts it would say account frozen for 24hrs. And 4 is to exit the program.
 
 --------------------------------------------------------------------------------------------------------------------
-file
+File
 -----
 security tool.py 
 
 -----------------------
-how to run the program 
+How to run the program 
 -------------------------
 download the program
 
@@ -34,6 +39,6 @@ run
 
 or 
 
-you can import the program file int vs code and run the program
+you can import the program file into vs code and run the program
 
 ---------------------------------------------------------------
