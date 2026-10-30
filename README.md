@@ -1,10 +1,10 @@
-cyber security utiltties
+Cyber security utiltties
 -
-student information
+Student information
 -
 Name Edison Dong banner id is B01860576 I go to Lanarkshire campus
 
-description of the portogram
+Description of the portogram
 -
 
 This program is a simple security tool that checks passwords and IP addresses. First the user enters a password and an IP address. Then the program checks if the password is strong.
@@ -20,14 +20,14 @@ After the checks are complete the program will displays whether the password is 
 Finally, it generates and displays an example of a strong password. This helps users create safer passwords.
 
 -
-files
+Files
 -
 main.py
 
 security_tool.py
 
 -
-how to run the programs
+How to run the programs
 -
 download the two programs
 
