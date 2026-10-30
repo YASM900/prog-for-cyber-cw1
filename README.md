@@ -1,12 +1,16 @@
-security event logger 
+Security event logger 
 --------------
-student information 
+Student information 
 
-Name Edison Dong 
+Name Edison Dong
+
 banner id is B01860576
+
 I go to Lanarkshire campus 
+
 ----------------------------------
-description of the portogram 
+Description of the portogram 
+-
 
 This program is a simple security event logger that simulates a login system.
 
@@ -17,12 +21,12 @@ The program displays a security log heading and repeatedly asks the user to ente
 If the credentials are incorrect, it logs a failed login attempt and displays the event details, shows an access denied message, and generates a security alert containing the user IP address. 
 
 --------------------------------------------------------------------------------------------------------------------
-file
+File
 ------
 security event logger.py 
 
 -----------------------
-how to run the program 
+How to run the program 
 -----------------------
 download the program
 
