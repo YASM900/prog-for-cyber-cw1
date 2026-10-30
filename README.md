@@ -1,4 +1,4 @@
-ip address validator
+cyber security utiltties
 -
 student information
 -
@@ -7,28 +7,38 @@ Name Edison Dong banner id is B01860576 I go to Lanarkshire campus
 description of the portogram
 -
 
-This program checks if an IP address entered by the user is valid. First, it asks the user to enter an IP address. The program then checks if the address contains dots (.) and splits it into four parts. A valid IP address must have exactly four sections.
+This program is a simple security tool that checks passwords and IP addresses. First the user enters a password and an IP address. Then the program checks if the password is strong.
 
-Next the program checks each section to make sure it only contains numbers. It then checks that each number is between 0 and 255. If any section contains letters, symbols, or a number outside this range, the IP address is marked as invalid.
+A strong password must be at least 8 characters long and contain a capital letter, a number, and a special character such as ! or @.
 
-If all four sections pass the checks the program will returns True and displays "Valid IP address". If any check fails it will returns False and displays "Invalid IP address".
+If the password is weak, the program will tell the user and creates a stronger password suggestion. 
+
+The program also checks if the IP address is valid by making sure it has four numbers separated by a dot and each number is between 0 and 255.
+
+After the checks are complete the program will displays whether the password is strong and whether the IP address is valid. 
+
+Finally, it generates and displays an example of a strong password. This helps users create safer passwords.
+
 -
 files
 -
-ip address validator.py
+main.py
 
-how to run the program
+security_tool.py
+
 -
-download the program
+how to run the programs
+-
+download the two programs
 
 open terminal
 
-navigate to where the program is save
+navigate to where the programs is save
 
-run
+ and run the main.py
 
 or
 
-you can import the program file int vs cod and run the program
+you can import the two programs file into vs cod and run the programs
 
 -
