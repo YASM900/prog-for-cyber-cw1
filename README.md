@@ -1,10 +1,14 @@
-security incident manager 
+Security incident manager 
 ----------------------------
-student information
+Student information
 --
-Name Edison Dong banner id is B01860576 I go to Lanarkshire campus
+Name Edison Dong
+
+banner id is B01860576 
+
+I go to Lanarkshire campus
 -
-description of the portogram
+Description of the portogram
 -
 
 This program uses a dictionary to store information about a security incident. The dictionary contains a username IP address event type and risk level. First the program displays the username and IP address.
@@ -14,12 +18,12 @@ Next it adds a new piece of information called status and sets it to "Under Inve
 The program then uses it to display all the remaining information stored in the dictionary.
 
 -
-file
+File
 -
 security incident manager.py
 
-
-how to run the program
+-
+How to run the program
 -
 
 download the program
