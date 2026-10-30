@@ -1,6 +1,6 @@
 Security tool
 --------------
-Student information 
+Student information
 -
 
 Name Edison Dong 
