@@ -1,12 +1,15 @@
-ip address validator
+Ip address validator
 --------------
-student information 
+Student information 
 
 Name Edison Dong 
+
 banner id is B01860576
+
 I go to Lanarkshire campus 
 ----------------------------------
-description of the portogram 
+Description of the portogram 
+-
 
 This program checks if an IP address entered by the user is valid. First, it asks the user to enter an IP address. The program then checks if the address contains dots (.) and splits it into four parts. A valid IP address must have exactly four sections.
 
@@ -15,12 +18,12 @@ Next the program checks each section to make sure it only contains numbers. It t
 If all four sections pass the checks the program will returns True and displays "Valid IP address". If any check fails it will  returns False and displays "Invalid IP address".
 
 --------------------------------------------------------------------------------------------------------------------
-files
+Files
 --------
 ip address validator.py 
 
 -----------------------
-how to run the program 
+How to run the program 
 -----------------------
 download the program
 
@@ -32,6 +35,6 @@ run
 
 or
 
-you can import the program file int vs cod and run the program 
+you can import the program file into vs cod and run the program 
 
 ----------------------------------------------------------------
