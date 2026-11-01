@@ -1,4 +1,4 @@
-in this phot it sow me logging into the security tool and showing the menu 
+in this phot it sow me logging into the security tool and showing the menu
 
 <img width="431" height="281" alt="right password" src="https://github.com/user-attachments/assets/b2bd0ed2-db7f-4286-89bc-1e42fc148722" />
 
