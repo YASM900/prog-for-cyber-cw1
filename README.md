@@ -11,11 +11,12 @@ I go to Lanarkshire campus
 Description of the portogram
 -
 
-This program uses a dictionary to store information about a security incident. The dictionary contains a username IP address event type and risk level. First the program displays the username and IP address.
+This program allows a user to enter a username and an IP address. It first checks whether the IP address is valid by ensuring it contains four sections separated by dots and that each section is a number between 0 and 255.
 
-Next it adds a new piece of information called status and sets it to "Under Investigation". It then changes the risk level from "High" to "Critical" to show that the incident is more serious. After that it removes the event type from the dictionary because it is no longer needed.
+If the IP address is invalid, the program displays an "Invalid IP" message and stops. If the IP address is valid, the program creates a dictionary called incident to store information about a failed login attempt
+including the username, IP address, event type, and risk level. 
 
-The program then uses it to display all the remaining information stored in the dictionary.
+The program then displays the username and IP address, adds a status field, updates the risk level to Critical, removes the event type field, and finally displays all remaining key-value pairs along with the total number of items stored in the dictionary.
 
 -
 File
