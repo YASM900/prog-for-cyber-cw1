@@ -8,7 +8,7 @@ banner id is B01860576
 
 I go to Lanarkshire campus 
 ----------------------------------
-Description of the porgram
+Description of the program
 -
 
 This program checks if an IP address entered by the user is valid. First, it asks the user to enter an IP address. The program then checks if the address contains dots (.) and splits it into four parts. A valid IP address must have exactly four sections.
