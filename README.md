@@ -8,7 +8,7 @@ banner id is B01860576
 
 I go to Lanarkshire campus
 -
-Description of the portogram
+Description of the program
 -
 
 This program allows a user to enter a username and an IP address. It first checks whether the IP address is valid by ensuring it contains four sections separated by dots and that each section is a number between 0 and 255.
