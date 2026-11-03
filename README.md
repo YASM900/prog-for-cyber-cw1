@@ -9,7 +9,7 @@ banner id is B01860576
 I go to Lanarkshire campus 
 
 ----------------------------------
-Description of the portogram 
+Description of the program
 -
 
 This program is a simple security event logger that simulates a login system.
