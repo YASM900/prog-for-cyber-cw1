@@ -3,7 +3,7 @@ programming for cyber security coursework
 student details
 Name Edison Dong 
 banner ID is B01860576
-campus I go to is Lanarkshire campus 
+the campus I go to is Lanarkshire campus 
 --------------------------------------------------------------------------------------------------------------------------
 repository overview 
 In this repository contains the program that was requested for cyber security coursework 1  
