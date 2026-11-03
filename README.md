@@ -10,7 +10,7 @@ banner id is B01860576
 I go to Lanarkshire campus 
 
 ----------------------------------
-Description of the portogram 
+Description of the program
 -
 
 This program is a menu-driven security tool Before using any of the three features, the user must enter the correct administrator username (admin) and password (P@$$word). This helps keep the tool secure and prevents unauthorised access. 
