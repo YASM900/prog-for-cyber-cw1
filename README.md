@@ -4,7 +4,7 @@ Student information
 -
 Name Edison Dong banner id is B01860576 I go to Lanarkshire campus
 
-Description of the porgram
+Description of the program
 -
 
 This program is a simple security tool that checks passwords and IP addresses. First the user enters a password and an IP address. Then the program checks if the password is strong.
